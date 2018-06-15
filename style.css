@@ -1,0 +1,7 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("font/"); }
+@media screen and (max-width: 768px) {
+  font-family: monospace; }
+
+/*# sourceMappingURL=style.css.map */
